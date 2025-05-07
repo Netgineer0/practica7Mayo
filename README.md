@@ -42,4 +42,4 @@
 
 [Adobe](https://www.adobe.com)
 
-![Adobe Logo](/docs/contributor/assets/adobe_standard_descarga.png "Hover text")
+![Adobe Logo](/docs/contributor/assets/descarga.png "Hover text")
