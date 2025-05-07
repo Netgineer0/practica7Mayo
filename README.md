@@ -43,3 +43,5 @@
 [Adobe](https://www.adobe.com)
 
 ![UPJR](https://github.com/Netgineer0/practica7Mayo/blob/main/descarga.png)
+
+[Descargar PDF](https://github.com/Netgineer0/practica7Mayo/blob/main/1.pdf)
