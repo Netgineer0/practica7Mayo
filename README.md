@@ -42,4 +42,4 @@
 
 [Adobe](https://www.adobe.com)
 
-![Adobe Logo](/docs/contributor/assets/descarga.png "Hover text")
+![UPJR](https://github.com/Netgineer0/practica7Mayo/blob/main/descarga.png)"Hover text")
